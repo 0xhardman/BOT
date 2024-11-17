@@ -1,0 +1,12 @@
+[submodule "website"]
+	path = website
+	url = https://github.com/0xhardman/BOT-Website.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/0xja-eth/BOT-Backend.git
+[submodule "contract"]
+	path = contract
+	url = https://github.com/0xja-eth/BOT-Contract.git
+[submodule "vlayer"]
+	path = vlayer
+	url = https://github.com/0xja-eth/BOT-vLayer-Server.git
